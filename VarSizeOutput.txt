@@ -1,0 +1,42 @@
+# Criado pelo programa VarSize #
+
+
+Informações sobre os tipos usados na linguagem C neste PC
+
+
+Tamanhos dos tipos:
+
+
+char: 1 byte.
+
+short int: 2 bytes.
+
+int: 4 bytes.
+
+long int: 4 bytes.
+
+float: 4 bytes.
+
+double: 8 bytes.
+
+long double: 8 bytes.
+
+
+
+Alcance dos tipos:
+
+
+char: -128 a 127 .
+
+short int: -32768 a 32767 .
+
+int: -2147483648 a 2147483647 .
+
+long int: -2147483648 a 2147483647 .
+
+
+float: 1.175494e-38  a  3.402823e+38, com 6 algarismos significativos.
+
+double: 2.225074e-308  a  1.797693e+308, com 15 algarismos significativos.
+
+long double: 2.225074e-308  a  1.797693e+308, com 15 algarismos significativos.
